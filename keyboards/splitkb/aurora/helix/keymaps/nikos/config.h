@@ -25,6 +25,7 @@
 #define LED_CAPS_LOCK_PIN 24
 #define LED_PIN_ON_STATE 0
 #define HOLD_ON_OTHER_KEY_PRESS
+#define LED_HITS_TO_REMEMBER 30
 // For LED indicators
 #define SPLIT_LAYER_STATE_ENABLE
 
